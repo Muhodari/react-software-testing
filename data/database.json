@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "c080lmig9",
+      "uuid": "7d07bd53-bc6d-4287-9d5c-b4c12dc86c69",
+      "firstName": "sage",
+      "lastName": "Mugabo",
+      "username": "sage",
+      "password": "$2a$10$9F9sOqM/MuqrdmjpY7teI.wX6jpvA9F9A8TpCR3SP5emRJDKMACoe",
+      "balance": 0,
+      "createdAt": "2021-10-28T21:00:31.317Z",
+      "modifiedAt": "2021-10-28T21:00:31.317Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "Tew4MQN30",
+      "uuid": "fa1d9a6f-3939-4ece-b5e2-1834567cc37b",
+      "userId": "c080lmig9",
+      "bankName": "BK-Rwanda",
+      "accountNumber": "786876748",
+      "routingNumber": "084008519",
+      "isDeleted": false,
+      "createdAt": "2021-10-28T21:03:14.379Z",
+      "modifiedAt": "2021-10-28T21:03:14.379Z"
     }
   ],
   "transactions": [
