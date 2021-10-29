@@ -76,15 +76,15 @@
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     },
     {
-      "id": "c080lmig9",
-      "uuid": "7d07bd53-bc6d-4287-9d5c-b4c12dc86c69",
-      "firstName": "sage",
-      "lastName": "Mugabo",
-      "username": "sage",
-      "password": "$2a$10$9F9sOqM/MuqrdmjpY7teI.wX6jpvA9F9A8TpCR3SP5emRJDKMACoe",
+      "id": "_SC3dFOLV",
+      "uuid": "f9cd3067-fc8a-4ba8-81d3-4da499b679a3",
+      "firstName": "mike",
+      "lastName": "mike",
+      "username": "mike",
+      "password": "$2a$10$rv3x6Ks/BQ4z3pjvQ/.0fOcUph1KsO4zXqXXeP98zlGrVhOGYefB.",
       "balance": 0,
-      "createdAt": "2021-10-28T21:00:31.317Z",
-      "modifiedAt": "2021-10-28T21:00:31.317Z"
+      "createdAt": "2021-10-29T06:10:09.882Z",
+      "modifiedAt": "2021-10-29T06:10:09.882Z"
     }
   ],
   "contacts": [
@@ -266,15 +266,15 @@
       "modifiedAt": "2020-05-21T22:40:28.910Z"
     },
     {
-      "id": "Tew4MQN30",
-      "uuid": "fa1d9a6f-3939-4ece-b5e2-1834567cc37b",
-      "userId": "c080lmig9",
+      "id": "-zUH8B5Bb",
+      "uuid": "ecd2f105-f737-4936-b316-501a941562f0",
+      "userId": "_SC3dFOLV",
       "bankName": "BK-Rwanda",
-      "accountNumber": "786876748",
-      "routingNumber": "084008519",
+      "accountNumber": "8347698434",
+      "routingNumber": "084008517",
       "isDeleted": false,
-      "createdAt": "2021-10-28T21:03:14.379Z",
-      "modifiedAt": "2021-10-28T21:03:14.379Z"
+      "createdAt": "2021-10-29T06:10:33.464Z",
+      "modifiedAt": "2021-10-29T06:10:33.464Z"
     }
   ],
   "transactions": [
