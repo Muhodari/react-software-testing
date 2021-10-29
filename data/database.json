@@ -74,17 +74,6 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
-    },
-    {
-      "id": "_SC3dFOLV",
-      "uuid": "f9cd3067-fc8a-4ba8-81d3-4da499b679a3",
-      "firstName": "mike",
-      "lastName": "mike",
-      "username": "mike",
-      "password": "$2a$10$rv3x6Ks/BQ4z3pjvQ/.0fOcUph1KsO4zXqXXeP98zlGrVhOGYefB.",
-      "balance": 0,
-      "createdAt": "2021-10-29T06:10:09.882Z",
-      "modifiedAt": "2021-10-29T06:10:09.882Z"
     }
   ],
   "contacts": [
@@ -264,17 +253,6 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
-    },
-    {
-      "id": "-zUH8B5Bb",
-      "uuid": "ecd2f105-f737-4936-b316-501a941562f0",
-      "userId": "_SC3dFOLV",
-      "bankName": "BK-Rwanda",
-      "accountNumber": "8347698434",
-      "routingNumber": "084008517",
-      "isDeleted": false,
-      "createdAt": "2021-10-29T06:10:33.464Z",
-      "modifiedAt": "2021-10-29T06:10:33.464Z"
     }
   ],
   "transactions": [
@@ -9877,18 +9855,6 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
-    },
-    {
-      "id": "tG3J3ovtK",
-      "uuid": "48ff9070-5ac8-4cd1-b58a-e9995bb67359",
-      "amount": 3498700,
-      "description": "d",
-      "receiverId": "t45AiwidW",
-      "senderId": "_SC3dFOLV",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2021-10-29T06:53:09.563Z",
-      "modifiedAt": "2021-10-29T06:53:09.563Z"
     }
   ],
   "likes": [
@@ -10465,16 +10431,6 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
-    },
-    {
-      "id": "qfl135xGD5",
-      "uuid": "f49fa00a-2ff4-481d-b25b-e0ce17b5ab74",
-      "userId": "t45AiwidW",
-      "transactionId": "tG3J3ovtK",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2021-10-29T06:53:09.613Z",
-      "modifiedAt": "2021-10-29T06:53:09.613Z"
     }
   ],
   "banktransfers": [

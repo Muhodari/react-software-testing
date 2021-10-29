@@ -21,7 +21,7 @@ expect(await screen.findByRole('button',{name:/pay/i})).toBeEnabled();
 })
 
 
-//      INTEGRATION TEST COMBINNING THE TWO ABOVE TESTS                  //
+// INTEGRATION TEST COMBINNING THE TWO ABOVE TESTS                  //
 
 
 test('on initial render, the pay button is disabled AND\nif an amount and note is entered, pay button becomes enabled ', async ()=>{
