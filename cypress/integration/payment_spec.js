@@ -11,9 +11,15 @@ cy.findByRole('button', {  name: /sign in/i}).click()
 // check account balance 
 let oldBalance
 cy.get('[data-test=sidenav-user-balance]').then($balance => oldBalance = $balance.text());
- 
-// click on pay button
+
+// click on new button
+cy.findByRole('button', {  name: /new/i}).click()
+
 //search for the user
+cy.findByRole('textbox').type('devon becker')
+cy.findByText(/devon becker/i).click()
+
+
 // add amount and note  and click pay
 // return to transactions
 // go to personal payment
